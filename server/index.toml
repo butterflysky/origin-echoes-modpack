@@ -910,6 +910,11 @@ hash = "aa552caa20576995d4fb2fe2b7eeae40e27365675a896baaa2b941ee377b2416"
 metafile = true
 
 [[files]]
+file = "mods/tetracelium.pw.toml"
+hash = "9421e7ce08f775700d1d59cd042decdcdd32ebbbbb605bf8fdf9f6cccdd9107a"
+metafile = true
+
+[[files]]
 file = "mods/the-lost-cities.pw.toml"
 hash = "25e7629fbaa0359b3854d9681a3fb5f2b7f99b18b9635e6c3471ab208e121e91"
 metafile = true

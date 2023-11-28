@@ -1121,6 +1121,11 @@ hash = "aa552caa20576995d4fb2fe2b7eeae40e27365675a896baaa2b941ee377b2416"
 metafile = true
 
 [[files]]
+file = "mods/tetracelium.pw.toml"
+hash = "9421e7ce08f775700d1d59cd042decdcdd32ebbbbb605bf8fdf9f6cccdd9107a"
+metafile = true
+
+[[files]]
 file = "mods/textrues-embeddium-options.pw.toml"
 hash = "6d6f38ed97a83a65a42cedacef640faa54f00f04f3384a604911235c97d53020"
 metafile = true
