@@ -510,6 +510,11 @@ hash = "0747507cc1b6d75d721255806cc6a45410006d8720e418f610441a47e8a34382"
 metafile = true
 
 [[files]]
+file = "mods/kawaii-dishes.pw.toml"
+hash = "73ea5eab4616b5d1b54e2a43021d456635d96951f5e9cd6a7ad2ac76d655bf2f"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "924496b2053a796376b098aa23d95cec889bdc3111a97b1c2749324ddbf1bbfe"
 metafile = true
