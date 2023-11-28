@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/a-mod-to-change-time.pw.toml"
-hash = "2c4669a637799cc8e27dd94847f27e0733be62bfe9000b01cc899d1d9c849b1d"
-metafile = true
-
-[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "705a59232972110ef672922786c6f38399d2a9c95cd5b3ded338379939931304"
 metafile = true
@@ -23,11 +18,6 @@ metafile = true
 [[files]]
 file = "mods/advancement-screenshot.pw.toml"
 hash = "a1c34de42f92372f1b936f59f8be6bad673f0a475255b31a9f513a35824bef07"
-metafile = true
-
-[[files]]
-file = "mods/alert-block.pw.toml"
-hash = "4426ce7666a27214f1853b910f7ab28e7e7219f330ba73bd7b963536b8173451"
 metafile = true
 
 [[files]]
@@ -251,11 +241,6 @@ hash = "cf89b7eb32d4b032ec2d7e5e6b94a159b37077bfe622aff964b5b1c85be4946a"
 metafile = true
 
 [[files]]
-file = "mods/craftable-smithing-templates-armor-trims.pw.toml"
-hash = "3ca7cf7d9d13721a0d1a595cc3dcd4629d2418b12beb4b06f010e2aa57e72b02"
-metafile = true
-
-[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "f5346b7183acab3c902c20551f3c170d676964fbb6b9f4402209a5d972c34f40"
 metafile = true
@@ -298,11 +283,6 @@ metafile = true
 [[files]]
 file = "mods/deep-resonance.pw.toml"
 hash = "4e724de6f682d09c40890a87e521868958a1cc554156330d3a5233d77a7360f1"
-metafile = true
-
-[[files]]
-file = "mods/diary-of-an-eight-bit-warrior.pw.toml"
-hash = "7e67e516a7196a89efef000cb4dc8d6dfe4d01819644c1ccb199f1c4f47ec922"
 metafile = true
 
 [[files]]
@@ -633,11 +613,6 @@ metafile = true
 [[files]]
 file = "mods/mafglib.pw.toml"
 hash = "2158991a6324a3f188b91395944b140883b68d68c9036afb5ec45664dbce0d0e"
-metafile = true
-
-[[files]]
-file = "mods/magical-jewelry.pw.toml"
-hash = "48f908d6a2c6b05aa52bae9e43da719239b0dcc538f141614a3bed1919c4d361"
 metafile = true
 
 [[files]]
