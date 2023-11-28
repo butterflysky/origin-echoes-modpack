@@ -1,0 +1,13 @@
+name = "Recipes Galore"
+filename = "RecipesGalore-1.20+2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AshFgSpV/versions/uZKa7yRQ/RecipesGalore-1.20%2B2.3.jar"
+hash-format = "sha1"
+hash = "6630a36821c1e9135bef3d2b156b01ba6ddc300a"
+
+[update]
+[update.modrinth]
+mod-id = "AshFgSpV"
+version = "uZKa7yRQ"

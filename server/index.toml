@@ -700,6 +700,11 @@ hash = "663b996b6ebea5c1ba69e70484a3a9980961408e08373b3ddc0a6921b1752dbd"
 metafile = true
 
 [[files]]
+file = "mods/recipes-galore.pw.toml"
+hash = "6c396a7d4b2e3019a26c18a87c279e2ff037ba23acdd8435d65ace31039bd36e"
+metafile = true
+
+[[files]]
 file = "mods/refined-cooking.pw.toml"
 hash = "41f41372b6c4b4866b5f12856dea4d11554fb32b95cf2aa140ed8985f4e1eda1"
 metafile = true
