@@ -885,6 +885,11 @@ hash = "6273cbc248e4a0578d8d8e43c2d2cab98102b5bac0313f792c50f57721c3188d"
 metafile = true
 
 [[files]]
+file = "mods/super-block-world.pw.toml"
+hash = "85267a50e53e16dbdb88c39e0d1f6a43cedf929308cbd1e9695109c25d6222de"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "fb0ec93bfbee412229b63a9154abc992ee7e274a84fe569e077f250e6c77abbd"
 metafile = true
