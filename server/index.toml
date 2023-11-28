@@ -105,6 +105,11 @@ hash = "059dc6c319d605b256b6ccd06ecdba7c28764622c3258baea4a7081fbfd92135"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "62fdecc406eb2c9d04b0ec0313b06d61dbc0870a8e22ab7e53462611fc3ac29d"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "a8beef77c7ca4f31b9b85f4f123f2f461814b249551720b4f75c197e2aca68fc"
 metafile = true
@@ -247,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/cyclops-core.pw.toml"
 hash = "340d7223ddb9bf6a8601c70ed957a7de3d7b5d2b7a6ba151b410085677cd3da6"
+metafile = true
+
+[[files]]
+file = "mods/dark-utilities.pw.toml"
+hash = "56f45e32c12ce85ac282e0b79bd333fff2706484deba98944465f1b3d303e102"
 metafile = true
 
 [[files]]
@@ -605,6 +615,11 @@ hash = "6caaa4f97487bbf5437ebd324d4f9afd60115e43b6cea68d7d5bd4a70ed4208c"
 metafile = true
 
 [[files]]
+file = "mods/pig-pen-cipher.pw.toml"
+hash = "86d1f26a7ae6210d216a1af25759b07986f71bf6deeed02b4ce651204502773c"
+metafile = true
+
+[[files]]
 file = "mods/pipez.pw.toml"
 hash = "81e740cac7c1cb57647480a7155ac90469a5bdaaadee58878a708e2790625e77"
 metafile = true
@@ -722,6 +737,11 @@ metafile = true
 [[files]]
 file = "mods/rsinfinitybooster.pw.toml"
 hash = "493d90f8a2357351d53e72b27e70af82e05fae25e0f4496f540656b6517a1887"
+metafile = true
+
+[[files]]
+file = "mods/runelic.pw.toml"
+hash = "61ce4ba81f3903ab9d2c27f7fa073f800f9480d910d3022e1701bfcdbb0ad6dd"
 metafile = true
 
 [[files]]
