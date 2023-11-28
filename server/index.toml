@@ -25,6 +25,11 @@ hash = "45d8f73263f55d0578a156fc3279e17720ae764375fe0e7652fd422a40a484a2"
 metafile = true
 
 [[files]]
+file = "mods/aether.pw.toml"
+hash = "87fa60b09f3b3146127fbd495bc77165a808d7871ef12d564bfe82d60dde10d7"
+metafile = true
+
+[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "802a3d250a29992bc05fc6b549b2eda2d8239ea6bf7dbcd5e651fa32f2552b8e"
 metafile = true
