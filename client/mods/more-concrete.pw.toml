@@ -1,0 +1,13 @@
+name = "More Concrete"
+filename = "moreconcrete-1.4.7-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sUSfS0sK/versions/xBAEvv9U/moreconcrete-1.4.7-1.20.1.jar"
+hash-format = "sha1"
+hash = "5a8611ebcaf7a3f3a8c7579ddcba7dda24cf34b2"
+
+[update]
+[update.modrinth]
+mod-id = "sUSfS0sK"
+version = "xBAEvv9U"

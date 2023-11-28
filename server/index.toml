@@ -590,6 +590,11 @@ hash = "ed810d6126283df7ca919ecdfaae8e78589230cfc7d6feed5ea7e7ab68138ae3"
 metafile = true
 
 [[files]]
+file = "mods/more-concrete.pw.toml"
+hash = "35195c1fd37a4a6edf3fc53626b613d83d927f01be43395459a8654b056bcb46"
+metafile = true
+
+[[files]]
 file = "mods/more-mekanism-processing.pw.toml"
 hash = "7eba2a4194baaa285446eae38fd9f0f303e90c5cdd7c884ac60aa0b51594d308"
 metafile = true
