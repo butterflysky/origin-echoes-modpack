@@ -100,6 +100,11 @@ hash = "735dd212445fb96f9aedd4d7333350ac6ea3476f1ddc758f80625716a0fd0198"
 metafile = true
 
 [[files]]
+file = "mods/baubley-heart-canisters.pw.toml"
+hash = "4abd0d53e87555ba75e23c4b0c3dac66b35c961eb8f87ebfc3358547acccef9e"
+metafile = true
+
+[[files]]
 file = "mods/bedrock-breakers.pw.toml"
 hash = "735caf89d9d1b37487299cf0c194ea21b47a76a65081d0dc17c0ac4d097900bd"
 metafile = true
