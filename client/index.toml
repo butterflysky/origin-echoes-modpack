@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/caelus.pw.toml"
-hash = "bc7f62deef63afee6be8569c580c842d14e0a153a823a3036ce634ef0a43234d"
+hash = "958d92f2c763942e7846f4c77b675c126cc8738a1dbc1a6f53390fa0d44b1a10"
 metafile = true
 
 [[files]]
@@ -238,6 +238,11 @@ metafile = true
 [[files]]
 file = "mods/colossal-chests.pw.toml"
 hash = "569d1e7807823a657a5b6fd917102f270786d42ed78d59b67373f2e2a9558664"
+metafile = true
+
+[[files]]
+file = "mods/colytra.pw.toml"
+hash = "27ffee4f26b99d014876940345e495b586730904275b4271dc70baf09815eda5"
 metafile = true
 
 [[files]]
