@@ -6,6 +6,11 @@ hash = "705a59232972110ef672922786c6f38399d2a9c95cd5b3ded338379939931304"
 metafile = true
 
 [[files]]
+file = "mods/additional-lanterns.pw.toml"
+hash = "685523a7d9b09a3de022ebe9bc0420d635d0dc9c5df2b88e669b3baa5bdb6041"
+metafile = true
+
+[[files]]
 file = "mods/advanced-peripherals.pw.toml"
 hash = "8287fd8d32b5277804e6d52a7f720229f79176289a18af884f9a67e120d4424b"
 metafile = true
@@ -261,6 +266,11 @@ hash = "555751fb3a590d0dbfb9f389e57ae9dfbf5d645469cf27aba156c1463e947ad9"
 metafile = true
 
 [[files]]
+file = "mods/entangled.pw.toml"
+hash = "b5c5a8ea9965c0138066a328c6d0f3c9e9dcb363bed81fab890f8eff21de97bc"
+metafile = true
+
+[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "25b957c0cd1987e0b45b9733b184ba997e2d8dcebb853958dc8e387a8a0d02e6"
 metafile = true
@@ -413,6 +423,11 @@ metafile = true
 [[files]]
 file = "mods/integrated-tunnels.pw.toml"
 hash = "b86a6ecb96300f0f4ec2142ec0d497b13945d5c10b3d420d174cf07a408240d6"
+metafile = true
+
+[[files]]
+file = "mods/item-collectors.pw.toml"
+hash = "edde6f048b8706739af7a9e01b9e5ee36501b619326a35a416eb92f24717800b"
 metafile = true
 
 [[files]]
@@ -711,6 +726,11 @@ hash = "0cbc09fb834e4dfececc4e4a8828cff5a74b9a8913fe2f2605f8bab2aff56932"
 metafile = true
 
 [[files]]
+file = "mods/simple-magnets.pw.toml"
+hash = "4053fef02328ef0b4b42b4383c9b2dc87b66195e59ee2efb7716ea31545f1136"
+metafile = true
+
+[[files]]
 file = "mods/simple-storage-network.pw.toml"
 hash = "63edf067c594089af4f367df3f5374beca34161364801839943607ab5a788dba"
 metafile = true
@@ -761,6 +781,21 @@ hash = "6273cbc248e4a0578d8d8e43c2d2cab98102b5bac0313f792c50f57721c3188d"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "fb0ec93bfbee412229b63a9154abc992ee7e274a84fe569e077f250e6c77abbd"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "da89ecdd114a7c62447944a1d97d276bbc127c277fcbbe8e54a70732ca04a780"
+metafile = true
+
+[[files]]
+file = "mods/tesseract.pw.toml"
+hash = "3c812e3e57600eef81724eba1bd36452338bcd0214a6364ae980026742fe96a1"
+metafile = true
+
+[[files]]
 file = "mods/the-lost-cities.pw.toml"
 hash = "25e7629fbaa0359b3854d9681a3fb5f2b7f99b18b9635e6c3471ab208e121e91"
 metafile = true
@@ -788,6 +823,11 @@ metafile = true
 [[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "f2c09150e959e4b0d303eecb4b703b4a74a33d07cefbacd9ca0ad480de19ca03"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "3c9b481baf1f2eca22fe731934427e1d832fc4344a73c7b0f6e1880735c7e4dd"
 metafile = true
 
 [[files]]
@@ -828,6 +868,11 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "5e692eaff3303988ab41f765070feff25b42dce4a90c23cc696dfbb8a450c392"
+metafile = true
+
+[[files]]
+file = "mods/wireless-chargers.pw.toml"
+hash = "afdf4f10e6151dd619f57d33f89e3981cd4faeac0bc9c17802ff35f1733ec629"
 metafile = true
 
 [[files]]
