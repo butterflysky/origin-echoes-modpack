@@ -895,6 +895,11 @@ hash = "da89ecdd114a7c62447944a1d97d276bbc127c277fcbbe8e54a70732ca04a780"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "92035028821834e6223793604fa8d1c0c962de433198e5bcc847e2a05aefda50"
+metafile = true
+
+[[files]]
 file = "mods/tempad.pw.toml"
 hash = "8f4958aee0552debfb5892af02be331fd51384f9f26f1940698dc3590d7901b0"
 metafile = true
