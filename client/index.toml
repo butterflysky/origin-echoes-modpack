@@ -521,6 +521,11 @@ hash = "5468ace73c2e8a4c8ecf7b8786bdcd0024fbfbfe088e642bbeb30eaf7e1cba21"
 metafile = true
 
 [[files]]
+file = "mods/guard-villagers.pw.toml"
+hash = "d8dd6092de845ee7bdab21468819986bb890a7bd026cb3a73d65707e06ac53b3"
+metafile = true
+
+[[files]]
 file = "mods/gui-followers.pw.toml"
 hash = "1857cee122cccba5b3ede78bef98591ebfebf4805d729f1e04fdb4901d620d25"
 metafile = true
