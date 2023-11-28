@@ -1,0 +1,13 @@
+name = "Auto Feeder Helmet"
+filename = "FeederHelmet-47.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lHGxGDJv/versions/uUuIg2oe/FeederHelmet-47.1.0.jar"
+hash-format = "sha1"
+hash = "0792497cde4b43815b7dbabbc405399ea0ec30c8"
+
+[update]
+[update.modrinth]
+mod-id = "lHGxGDJv"
+version = "uUuIg2oe"
