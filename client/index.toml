@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancy-trinkets.pw.toml"
-hash = "d9649e90252ef8184b708c6a6a53d7b3736918e21fc890374960e1407b31730d"
+hash = "34dd2220ac0a631bcf0cd8c3201d3cd4bddc1f814701ab894bac2d3c4981aa8f"
 metafile = true
 
 [[files]]
@@ -727,7 +727,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcjtylib.pw.toml"
-hash = "edd5d4fc5b1a1cb153d0fa9c4b0c3c2a92366a9071402d9a9f58e84eebffec44"
+hash = "1eb10738bc8c473a5212a86918941548424a4b10ee563d6b2cbe95bad6107aa3"
 metafile = true
 
 [[files]]
