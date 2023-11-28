@@ -1161,6 +1161,11 @@ hash = "6086d4c1345dc7d40bec98d593e314f7d70a336a4d5cd4873d10d83229adedaa"
 metafile = true
 
 [[files]]
+file = "mods/voidtotem.pw.toml"
+hash = "466dfa7d31ae7765d0b3aeb45feafb91995e28aaa2cc2f2bb130b035066bd747"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "a054ff26321c786fde20256fc508164f502c2386ff8af805f44c2628a811d3bc"
 metafile = true
