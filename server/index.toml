@@ -530,6 +530,11 @@ hash = "4205c8912564c477a8762eb1ffcabef42bcea54d9b50a9dcc7d2196d0e63ae29"
 metafile = true
 
 [[files]]
+file = "mods/limbo-dimension-datapack.pw.toml"
+hash = "e2d92d55c4a5da44a873d48382167dad43a227d1423a9fdb8feda602a049afaf"
+metafile = true
+
+[[files]]
 file = "mods/lobby.pw.toml"
 hash = "8c963a6e769bbef40b27bcf56b29a26c9957076082c50f44d340634b334d4679"
 metafile = true

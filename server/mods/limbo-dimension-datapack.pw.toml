@@ -1,0 +1,13 @@
+name = "LIMBO Dimension Datapack"
+filename = "limbo-dimension-datapack-2.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KpbQh4CC/versions/ncT1umWT/limbo-dimension-datapack-2.9.jar"
+hash-format = "sha1"
+hash = "b0d1001d3aa900b89c4de57fc004ac5b82be77e9"
+
+[update]
+[update.modrinth]
+mod-id = "KpbQh4CC"
+version = "ncT1umWT"
