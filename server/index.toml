@@ -195,6 +195,11 @@ hash = "196d40b07e59ffbdbe9e8ba4a6d461c1cc5a1e2883a49fb4d9055607938a3644"
 metafile = true
 
 [[files]]
+file = "mods/cloud-boots.pw.toml"
+hash = "1c514187b4efe197e2c90e499b836bd8ee68919f774ca42d1ad7466bd98d3999"
+metafile = true
+
+[[files]]
 file = "mods/cobblefordays.pw.toml"
 hash = "30f0c1dc08936db9002056ff41197e0fd9768e47c5b08d277bd5e547464c5118"
 metafile = true
