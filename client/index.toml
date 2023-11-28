@@ -476,6 +476,11 @@ hash = "8dc1207d775d62bf2bebbe62cac6e49c577d975752653558aebcd87c52d72d99"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "be8b6814ede9c36e0ba5fb78bcbc307bf640798157b51f9b2ac318b583f67153"
+metafile = true
+
+[[files]]
 file = "mods/gamemenuremovegfarb.pw.toml"
 hash = "eea9317342e08524705405da75e5c9034a935c70bd0399e826789540025e58d4"
 metafile = true
@@ -798,6 +803,11 @@ metafile = true
 [[files]]
 file = "mods/rebind-narrator.pw.toml"
 hash = "b2f208a76cad06abe320fba893adfeb40e2cc1064e4560155657f2229b2387ab"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "663b996b6ebea5c1ba69e70484a3a9980961408e08373b3ddc0a6921b1752dbd"
 metafile = true
 
 [[files]]

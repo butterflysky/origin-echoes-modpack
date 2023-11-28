@@ -371,6 +371,11 @@ hash = "8dc1207d775d62bf2bebbe62cac6e49c577d975752653558aebcd87c52d72d99"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "be8b6814ede9c36e0ba5fb78bcbc307bf640798157b51f9b2ac318b583f67153"
+metafile = true
+
+[[files]]
 file = "mods/gateways-to-eternity.pw.toml"
 hash = "481218362da493febc06aee39bd4d8a6f6e3817abd9f3d1212360c0c39117c81"
 metafile = true
@@ -608,6 +613,11 @@ metafile = true
 [[files]]
 file = "mods/radium.pw.toml"
 hash = "126b139d85f0e5cbd028ee85ceb9d385aee45b0ac0db12da8c61775f31b51eec"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "663b996b6ebea5c1ba69e70484a3a9980961408e08373b3ddc0a6921b1752dbd"
 metafile = true
 
 [[files]]
