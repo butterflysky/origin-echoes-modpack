@@ -530,6 +530,11 @@ hash = "a6ca059f3933246337ff50b280a18e18b54ffc2a4c04596e3196c8dd575183fe"
 metafile = true
 
 [[files]]
+file = "mods/max-health-fix.pw.toml"
+hash = "98e67f2f1ca8a9450169edb30d288eb2d481515a7b4a329aac77f5d23200eef2"
+metafile = true
+
+[[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "edd5d4fc5b1a1cb153d0fa9c4b0c3c2a92366a9071402d9a9f58e84eebffec44"
 metafile = true
