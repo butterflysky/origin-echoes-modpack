@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/radium.properties"
+hash = "08773e3050db673efc6f867201ee83b8aa6aaf96d3a2f354f5da9ae6211af042"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "705a59232972110ef672922786c6f38399d2a9c95cd5b3ded338379939931304"
 metafile = true
@@ -63,6 +67,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "219db8b20676139a72d7efd96884a2964955979447c82a1b06137d0e483bc5ab"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "a139f9445ec2f61d3d358794c845eb5c868028feff1bffa8477a87a29602beba"
 metafile = true
 
 [[files]]
@@ -207,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "9f0570c6631ffac8da59951ba93a55724aaf1ac644db68a3376abb99a0c360f8"
+hash = "6f5699622fae821052ca69c2cc7ab6dae7e3787cec446892b6b153c321f4f90a"
 metafile = true
 
 [[files]]
@@ -371,13 +380,13 @@ hash = "8dc1207d775d62bf2bebbe62cac6e49c577d975752653558aebcd87c52d72d99"
 metafile = true
 
 [[files]]
-file = "mods/fusion-connected-textures.pw.toml"
-hash = "be8b6814ede9c36e0ba5fb78bcbc307bf640798157b51f9b2ac318b583f67153"
+file = "mods/gateways-to-eternity.pw.toml"
+hash = "481218362da493febc06aee39bd4d8a6f6e3817abd9f3d1212360c0c39117c81"
 metafile = true
 
 [[files]]
-file = "mods/gateways-to-eternity.pw.toml"
-hash = "481218362da493febc06aee39bd4d8a6f6e3817abd9f3d1212360c0c39117c81"
+file = "mods/geckolib.pw.toml"
+hash = "5b2e6b41c3093f60535f5d64a5dbb71cfbcaeaf5ce1b4436dfd119b4c84c75ba"
 metafile = true
 
 [[files]]

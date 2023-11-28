@@ -81,6 +81,11 @@ hash = "669b3be285d8f7bed447458b7663a0d6f9fffbe70e94d4e7c5e908df578873aa"
 metafile = true
 
 [[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "a139f9445ec2f61d3d358794c845eb5c868028feff1bffa8477a87a29602beba"
+metafile = true
+
+[[files]]
 file = "mods/ash-api.pw.toml"
 hash = "af7097caf7339e88dc4b525ea70f30fb810a2e475cdc2fe710686af5f56e095c"
 metafile = true
@@ -267,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "9f0570c6631ffac8da59951ba93a55724aaf1ac644db68a3376abb99a0c360f8"
+hash = "6f5699622fae821052ca69c2cc7ab6dae7e3787cec446892b6b153c321f4f90a"
 metafile = true
 
 [[files]]
@@ -488,6 +493,11 @@ metafile = true
 [[files]]
 file = "mods/gateways-to-eternity.pw.toml"
 hash = "481218362da493febc06aee39bd4d8a6f6e3817abd9f3d1212360c0c39117c81"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "5b2e6b41c3093f60535f5d64a5dbb71cfbcaeaf5ce1b4436dfd119b4c84c75ba"
 metafile = true
 
 [[files]]
