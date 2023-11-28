@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "219db8b20676139a72d7efd96884a2964955979447c82a1b06137d0e483bc5ab"
+hash = "b7321e670cc58aa8062f7cae470c9806c2ed83680ca598df5fe6e75ab40df452"
 metafile = true
 
 [[files]]
@@ -747,6 +747,11 @@ metafile = true
 [[files]]
 file = "mods/runelic.pw.toml"
 hash = "61ce4ba81f3903ab9d2c27f7fa073f800f9480d910d3022e1701bfcdbb0ad6dd"
+metafile = true
+
+[[files]]
+file = "mods/scannable.pw.toml"
+hash = "26b35dc9c2d28d6570c93e445121b5603667e41c86855a6279e1313a7c9a0554"
 metafile = true
 
 [[files]]
