@@ -456,6 +456,11 @@ hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
 
 [[files]]
+file = "mods/fire-extinguisher.pw.toml"
+hash = "72e48435b93dc7a1897b5ab44c9f12576011fc36781615a2e38ca7448200f0c1"
+metafile = true
+
+[[files]]
 file = "mods/fish-no-stuck.pw.toml"
 hash = "e3e99614f4baee1a498620e060d46c81c28fe6b29c2c3fe61579c6c60a00293c"
 metafile = true
