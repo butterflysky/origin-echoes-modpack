@@ -741,6 +741,11 @@ hash = "d18fd6c2a4ce1bd68a6261932b906f6ece573cda9ae6b0e662ab96fe79df150d"
 metafile = true
 
 [[files]]
+file = "mods/mutil.pw.toml"
+hash = "c730f5a36bad3b8f4ffd4fdb9d1c87e5c84af61c0c5f53df5ee3df2ba068dfa1"
+metafile = true
+
+[[files]]
 file = "mods/nameless-trinkets.pw.toml"
 hash = "cd1a7b04f8622c9bdcaf28c9b5c99e34b628080ded3d9bf2bb54215c1816c857"
 metafile = true
@@ -1038,6 +1043,11 @@ metafile = true
 [[files]]
 file = "mods/tesseract.pw.toml"
 hash = "3c812e3e57600eef81724eba1bd36452338bcd0214a6364ae980026742fe96a1"
+metafile = true
+
+[[files]]
+file = "mods/tetra.pw.toml"
+hash = "aa552caa20576995d4fb2fe2b7eeae40e27365675a896baaa2b941ee377b2416"
 metafile = true
 
 [[files]]
