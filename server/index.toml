@@ -176,8 +176,13 @@ hash = "9782189aab3cad685f8fb6990a5c26af4329c04b7b37642caa6ea7fbbfb28a4e"
 metafile = true
 
 [[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "eb6e048c2c950ece0d7cdec9f4d9d40f21eae84040120e11a2bec44e3df73c0e"
+metafile = true
+
+[[files]]
 file = "mods/connector.pw.toml"
-hash = "d292e813d14025a77a9e8f172e7179f96e974ba968bc30711661ef47481bdbd6"
+hash = "cad8b79ef4002ed5e5cb5d9f51fbb76d09dcaf99205a0dfd26ed9b1b2649f4c3"
 metafile = true
 
 [[files]]
@@ -243,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "a2663a196a9991708b9eefe7505e1775e67c4ad996a15b493513f318c9b82352"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "84a6e8164651e25938442ebb8d313e22d13f56be527641782ac9d42fdb2baf25"
 metafile = true
 
 [[files]]
@@ -413,6 +423,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "97e0fd23df99408c20ea1bdfc9df2fceb16f4e06cb4a2839a68ec2ed72588a7b"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "bdb4b62f139151049e9b26bea10b9cf1401a7638bea581e80ac5658e0eff5498"
 metafile = true
 
 [[files]]
@@ -643,16 +658,6 @@ metafile = true
 [[files]]
 file = "mods/rings-of-ascension.pw.toml"
 hash = "12b793d1d437c71cfa777682bc036365c7291d6bc3ba16a84d9cf92e73683986"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items-hacks.pw.toml"
-hash = "7a39d6d8faddf9ac5f10aa1b3c271b8dc27b1f79531bdbeefb8d268b68e9eef5"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "03dba900b7927e69ab3822c288262822624548a8b6edfb96ca7b7e1bc81e4b0c"
 metafile = true
 
 [[files]]
