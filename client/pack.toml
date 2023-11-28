@@ -1,0 +1,13 @@
+name = "Origin Echoes"
+author = "flutterbyskies"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "192aa102c235b0e36cdb4c04f62294151a0ae4e43010086769551ec22c5862dc"
+
+[versions]
+forge = "47.0.0"
+minecraft = "1.20.1"

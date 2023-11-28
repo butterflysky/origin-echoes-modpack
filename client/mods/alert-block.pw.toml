@@ -1,0 +1,13 @@
+name = "Alert Block"
+filename = "alertblock-1.20.1-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "615593579640c63ea061d06996776ade66b0a772"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4827845
+project-id = 915525

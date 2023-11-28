@@ -1,0 +1,13 @@
+name = "Magical Jewelry"
+filename = "magicaljewelry-1.20.1_1.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7c789d246eefdf1707571e9a43875b9c518cf8ac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4629258
+project-id = 384090

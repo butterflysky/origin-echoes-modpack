@@ -1,0 +1,13 @@
+name = "Flower Seeds 2 - Cyclic"
+filename = "FlowerSeeds2Cyclic-1.20.1-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "562f4b5e70a5f1f45dc697dc3f693c1afa57dcd6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4800978
+project-id = 908151

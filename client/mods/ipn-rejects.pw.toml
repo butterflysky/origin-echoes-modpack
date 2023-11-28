@@ -1,0 +1,13 @@
+name = "IPN Rejects"
+filename = "IPN-Rejects-forge-1.20-1.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "94ab81f51d8fae1c2d1e7acf92fcba065338f9e5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4715205
+project-id = 686712

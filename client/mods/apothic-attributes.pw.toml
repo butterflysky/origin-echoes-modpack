@@ -1,0 +1,13 @@
+name = "Apothic Attributes (AttributesLib)"
+filename = "ApothicAttributes-1.20.1-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e14ff607bf05347fc4813547e142c2f45346bc93"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4872467
+project-id = 898963

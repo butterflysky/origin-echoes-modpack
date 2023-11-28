@@ -1,0 +1,13 @@
+name = "Torcherino"
+filename = "Torcherino-forge-1.20.1-20.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "013680b29aac6438a970fe713342f2f61658c4e8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4722725
+project-id = 236794

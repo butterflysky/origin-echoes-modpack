@@ -1,0 +1,13 @@
+name = "Radium"
+filename = "radium-mc1.20-0.11.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2gvRmQXx/versions/QJWKic94/radium-mc1.20-0.11.2.jar"
+hash-format = "sha1"
+hash = "fc16da93b906cf3356498daba1d68b3351b56383"
+
+[update]
+[update.modrinth]
+mod-id = "2gvRmQXx"
+version = "QJWKic94"

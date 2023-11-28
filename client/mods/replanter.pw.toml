@@ -1,0 +1,13 @@
+name = "Replanter"
+filename = "replanter-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cc5a482219402a3b0eba3acfb8940eb1cc766dd9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4672967
+project-id = 480657

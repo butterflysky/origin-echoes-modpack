@@ -1,0 +1,13 @@
+name = "BoccHUD"
+filename = "BoccHUD-0.1.1-mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zfPoD7Tm/versions/vpV2G00o/BoccHUD-0.1.1-mc1.20.1.jar"
+hash-format = "sha1"
+hash = "5a75ed40c177bf31032e6704fce1fb28248a5ee5"
+
+[update]
+[update.modrinth]
+mod-id = "zfPoD7Tm"
+version = "vpV2G00o"

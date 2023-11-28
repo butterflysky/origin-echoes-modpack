@@ -1,0 +1,13 @@
+name = "FullGrownCropMarker"
+filename = "crop-marker-forge-1.20.1-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zB8NzHon/versions/tQ052JUQ/crop-marker-forge-1.20.1-1.2.0.jar"
+hash-format = "sha1"
+hash = "404163af654c76c069a7b93ea7b55e7d75f45fd5"
+
+[update]
+[update.modrinth]
+mod-id = "zB8NzHon"
+version = "tQ052JUQ"

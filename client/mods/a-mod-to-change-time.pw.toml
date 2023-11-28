@@ -1,0 +1,13 @@
+name = "Time changing stones"
+filename = "Time changing stones 1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9461176c2ab5844fd425e10c07325b16f9abc6ae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4806967
+project-id = 924026

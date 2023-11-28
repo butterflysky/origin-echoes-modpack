@@ -1,0 +1,13 @@
+name = "DisguiseHeads"
+filename = "disguiseheads-forge-1.0.1-mc1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/u4pgScAU/versions/KUFvD10i/disguiseheads-forge-1.0.1-mc1.20.jar"
+hash-format = "sha1"
+hash = "55a0a5443e32fa897622f96740f7c30030752568"
+
+[update]
+[update.modrinth]
+mod-id = "u4pgScAU"
+version = "KUFvD10i"

@@ -1,0 +1,13 @@
+name = "Token Enchanter"
+filename = "token-enchanter-1.20.1-1.5.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3512ec0194d0654fe0ca4a8fc7374bdce44e96cf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4891989
+project-id = 444421

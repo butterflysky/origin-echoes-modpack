@@ -1,0 +1,13 @@
+name = " I See Lava"
+filename = "iseelava-connector-1.20.1-1.1.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TcVddnvI/versions/xzwdWiEf/iseelava-connector-1.20.1-1.1.7.jar"
+hash-format = "sha1"
+hash = "a44dfc3eef312a198a725174c241b39e2f8095e9"
+
+[update]
+[update.modrinth]
+mod-id = "TcVddnvI"
+version = "xzwdWiEf"

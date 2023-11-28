@@ -1,0 +1,13 @@
+name = "Rings of Ascension (Forge)"
+filename = "RingsOfAscension-1.20.1-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "92cec732ad381d769ff7f82059926ce3d9db3282"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4767255
+project-id = 379208
