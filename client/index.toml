@@ -5,10 +5,6 @@ file = "config/radium.properties"
 hash = "08773e3050db673efc6f867201ee83b8aa6aaf96d3a2f354f5da9ae6211af042"
 
 [[files]]
-file = "mods/LuckyBlocks-1.4.jar"
-hash = "a66a4612306445e14cff14768eaf73a52f55466e024015aa2916ac05dc0c921f"
-
-[[files]]
 file = "mods/Modern-Industrialization-1.7.4.jar"
 hash = "ab5fd338896c7aa95c6427dc30e70fe01f9f57091d1fab0615fb94324bb43c49"
 
