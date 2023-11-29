@@ -547,11 +547,6 @@ hash = "96e04f276edbfb5d50d88a7dbd6268b61fb37fc02110b96d6fa7c4d4fe45b092"
 metafile = true
 
 [[files]]
-file = "mods/full-grown-crop-marker.pw.toml"
-hash = "1abab7c8aa7b64831e631c5c57f69d52f5800eb0fc25c4c25bcccc92ff1f43e2"
-metafile = true
-
-[[files]]
 file = "mods/furnace-recycle.pw.toml"
 hash = "8dc1207d775d62bf2bebbe62cac6e49c577d975752653558aebcd87c52d72d99"
 metafile = true
