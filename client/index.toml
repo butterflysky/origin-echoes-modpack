@@ -636,6 +636,10 @@ hash = "f13d3b44b9c97417f85e68620b14e080d46756713b90ee1a023d6f02b41c053b"
 metafile = true
 
 [[files]]
+file = "mods/infinicore-1.0.0.jar"
+hash = "057b472a3376ebccae524e1cf617ffb167db58ee759a58fe9e7481c8c21ce7a2"
+
+[[files]]
 file = "mods/integrated-crafting.pw.toml"
 hash = "c5258df8c919e33f2e3a78a06db43657b358e57b956d85da72f22d3957476247"
 metafile = true
