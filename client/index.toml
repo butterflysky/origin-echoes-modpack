@@ -736,11 +736,6 @@ hash = "e2d92d55c4a5da44a873d48382167dad43a227d1423a9fdb8feda602a049afaf"
 metafile = true
 
 [[files]]
-file = "mods/lobby.pw.toml"
-hash = "8c963a6e769bbef40b27bcf56b29a26c9957076082c50f44d340634b334d4679"
-metafile = true
-
-[[files]]
 file = "mods/lootr.pw.toml"
 hash = "123208d47b67ef94944debfc350bacfa66d236e4dee03593abfaec27f45899f6"
 metafile = true
