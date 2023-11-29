@@ -115,6 +115,10 @@ hash = "4abd0d53e87555ba75e23c4b0c3dac66b35c961eb8f87ebfc3358547acccef9e"
 metafile = true
 
 [[files]]
+file = "mods/bclib-3.0.13.jar"
+hash = "02909e009bf514295868ee7ab55e527fdaf374ea3b67f2bad02b890b3d7cfc08"
+
+[[files]]
 file = "mods/bedrock-breakers.pw.toml"
 hash = "735caf89d9d1b37487299cf0c194ea21b47a76a65081d0dc17c0ac4d097900bd"
 metafile = true
@@ -123,6 +127,14 @@ metafile = true
 file = "mods/better-chunk-loading-forge-fabric.pw.toml"
 hash = "059dc6c319d605b256b6ccd06ecdba7c28764622c3258baea4a7081fbfd92135"
 metafile = true
+
+[[files]]
+file = "mods/better-end-4.0.10.jar"
+hash = "80d574fb43473cbe84b5fd58c59efee4c7abeebfab9fcc2811ed2efc5bf52908"
+
+[[files]]
+file = "mods/better-nether-9.0.9.jar"
+hash = "fb7a5971f45eb792e46efb1098851518aeeee99a14e950ac6e2632959a8fb02b"
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
@@ -262,11 +274,6 @@ metafile = true
 [[files]]
 file = "mods/curious-armor-stands.pw.toml"
 hash = "d702a85a0f7969ea72b511dd6d0b5380d31b10b6941c90311785a3596b7bf385"
-metafile = true
-
-[[files]]
-file = "mods/cursery.pw.toml"
-hash = "2994e9f5cb4f258694f4704ef96eb1ebcf2b1799cd8d9361341c359660cb6744"
 metafile = true
 
 [[files]]
