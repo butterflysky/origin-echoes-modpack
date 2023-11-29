@@ -122,11 +122,6 @@ hash = "af7097caf7339e88dc4b525ea70f30fb810a2e475cdc2fe710686af5f56e095c"
 metafile = true
 
 [[files]]
-file = "mods/astral-dimension.pw.toml"
-hash = "ee9037ba4b28a4b1e1bc2c143fb41da3e7f01ce7d2f8350d4935c724a6800451"
-metafile = true
-
-[[files]]
 file = "mods/auto-feeder-helmet.pw.toml"
 hash = "e49c0a8b5eb01e3796013ca44a44570c33b90aa3cffb4ca390b2f5dd4f996048"
 metafile = true
