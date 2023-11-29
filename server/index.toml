@@ -250,6 +250,10 @@ hash = "9782189aab3cad685f8fb6990a5c26af4329c04b7b37642caa6ea7fbbfb28a4e"
 metafile = true
 
 [[files]]
+file = "mods/completeconfig-2.5.0.jar"
+hash = "311c3489d1db92d1a299b0ec90ea1c47b3add8242547aa5a0c6eec2a20e40bf3"
+
+[[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "eb6e048c2c950ece0d7cdec9f4d9d40f21eae84040120e11a2bec44e3df73c0e"
 metafile = true
@@ -283,6 +287,10 @@ metafile = true
 file = "mods/curious-armor-stands.pw.toml"
 hash = "d702a85a0f7969ea72b511dd6d0b5380d31b10b6941c90311785a3596b7bf385"
 metafile = true
+
+[[files]]
+file = "mods/custom-portals-3.2.2-1.20.1.jar"
+hash = "c229f86335f13c7c6d4558228e142dddd77a2bbf7990aaae1303764d901d1e97"
 
 [[files]]
 file = "mods/cyclic.pw.toml"
