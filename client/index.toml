@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/radium.properties"
+hash = "08773e3050db673efc6f867201ee83b8aa6aaf96d3a2f354f5da9ae6211af042"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "705a59232972110ef672922786c6f38399d2a9c95cd5b3ded338379939931304"
 metafile = true
@@ -1253,11 +1257,6 @@ metafile = true
 [[files]]
 file = "mods/wither-skeleton-tweaks.pw.toml"
 hash = "6602437f51f922d50a9f9b59c711472f8fcecb061bc87937af6787979938adac"
-metafile = true
-
-[[files]]
-file = "mods/wmitaf.pw.toml"
-hash = "d75f1a1f9678f3ce931763dd1b2db09a3713b4afcc1edac7492831976a6af25c"
 metafile = true
 
 [[files]]
