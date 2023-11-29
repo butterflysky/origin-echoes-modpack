@@ -623,6 +623,10 @@ hash = "d5398c3eabe6d44bc7b98d0ad6ca930aa53736567ccd2773d4d9efe28a8099fd"
 metafile = true
 
 [[files]]
+file = "mods/mermod-fabric-2.41.jar"
+hash = "9fec9d758297c9f206b462c4d3fdf7edbee8d2176249ed04b9eeb2e66b5dfde0"
+
+[[files]]
 file = "mods/mob-grinding-utils.pw.toml"
 hash = "8885a270b8065fd0477078f258b8d59fa07b3cc1a7cfb30ec3f298b380f4cefb"
 metafile = true
