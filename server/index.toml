@@ -53,11 +53,6 @@ hash = "6b2d9d8f2a3f9b34289d9a8f96722307d9decdfbf5121c468b76238d240a91f8"
 metafile = true
 
 [[files]]
-file = "mods/ancient-aether.pw.toml"
-hash = "db347580c37ef10bcb518a8dfdbd9b56030051be5840a2c029c0f5f809ede198"
-metafile = true
-
-[[files]]
 file = "mods/angel-block-renewed.pw.toml"
 hash = "91fdcb5154a0582504cd8958babbc4176c6d0d604c59cd58f7e59e7767b1ea51"
 metafile = true
