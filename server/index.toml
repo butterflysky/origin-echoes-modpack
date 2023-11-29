@@ -737,6 +737,10 @@ hash = "126b139d85f0e5cbd028ee85ceb9d385aee45b0ac0db12da8c61775f31b51eec"
 metafile = true
 
 [[files]]
+file = "mods/rainglow-1.1.2+mc1.20.1.jar"
+hash = "bf9929bc067b66bec5a19d1edc157d2aab8b6650d804d387fe9abc7164c681b2"
+
+[[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "663b996b6ebea5c1ba69e70484a3a9980961408e08373b3ddc0a6921b1752dbd"
 metafile = true

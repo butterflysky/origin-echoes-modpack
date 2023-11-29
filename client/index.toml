@@ -927,6 +927,10 @@ hash = "126b139d85f0e5cbd028ee85ceb9d385aee45b0ac0db12da8c61775f31b51eec"
 metafile = true
 
 [[files]]
+file = "mods/rainglow-1.1.2+mc1.20.1.jar"
+hash = "bf9929bc067b66bec5a19d1edc157d2aab8b6650d804d387fe9abc7164c681b2"
+
+[[files]]
 file = "mods/rebind-narrator.pw.toml"
 hash = "b2f208a76cad06abe320fba893adfeb40e2cc1064e4560155657f2229b2387ab"
 metafile = true
