@@ -377,6 +377,10 @@ hash = "4d6f14a4a81698e97931599a0812e292f779e8acc385a2bd5ab747de92d64464"
 metafile = true
 
 [[files]]
+file = "mods/fairy-origin-2.0.0.jar"
+hash = "145c5050824b7b1807368c80dab2afcf11e8c484cbe41058d8252380b3aa6c4c"
+
+[[files]]
 file = "mods/fancy-trinkets.pw.toml"
 hash = "34dd2220ac0a631bcf0cd8c3201d3cd4bddc1f814701ab894bac2d3c4981aa8f"
 metafile = true
