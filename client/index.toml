@@ -5,6 +5,10 @@ file = "config/radium.properties"
 hash = "08773e3050db673efc6f867201ee83b8aa6aaf96d3a2f354f5da9ae6211af042"
 
 [[files]]
+file = "mods/Modern-Industrialization-1.7.4.jar"
+hash = "ab5fd338896c7aa95c6427dc30e70fe01f9f57091d1fab0615fb94324bb43c49"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "705a59232972110ef672922786c6f38399d2a9c95cd5b3ded338379939931304"
 metafile = true
