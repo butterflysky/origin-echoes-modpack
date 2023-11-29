@@ -685,6 +685,10 @@ hash = "1d788c28db4a13667465daea65972dcfa057998d3c1e168fa6d2e75b6a980dc2"
 metafile = true
 
 [[files]]
+file = "mods/orb_of_origins_plus_1_20_1.jar"
+hash = "0632bc7e7c97651c853479d1504fcd505f076834f98720d54a6cd8b951030993"
+
+[[files]]
 file = "mods/origins-forge.pw.toml"
 hash = "67446999daa72edc2b6f6d74688d2df5488d1cd3cbd061f2bfe7e915f95ade16"
 metafile = true
