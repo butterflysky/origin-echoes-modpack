@@ -30,6 +30,11 @@ hash = "a1c34de42f92372f1b936f59f8be6bad673f0a475255b31a9f513a35824bef07"
 metafile = true
 
 [[files]]
+file = "mods/aeroblender.pw.toml"
+hash = "e92b434bbb03a573a0da797384d17f78c0938a3d8cca9e1a3d1c91a89f051a48"
+metafile = true
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "87fa60b09f3b3146127fbd495bc77165a808d7871ef12d564bfe82d60dde10d7"
 metafile = true
@@ -1132,6 +1137,11 @@ metafile = true
 [[files]]
 file = "mods/tempad.pw.toml"
 hash = "8f4958aee0552debfb5892af02be331fd51384f9f26f1940698dc3590d7901b0"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "d956cf0f76876125ccdb7ef0451006e6082fae0a078162a775d7617bdfe3090d"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "AeroBlender"
+filename = "aeroblender-1.20.1-1.0-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1eaq94ok/versions/K76lxVQU/aeroblender-1.20.1-1.0-neoforge.jar"
+hash-format = "sha1"
+hash = "7fe662e22930b588ea6c76ae398aaf8f7def4035"
+
+[update]
+[update.modrinth]
+mod-id = "1eaq94ok"
+version = "K76lxVQU"
