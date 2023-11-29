@@ -800,10 +800,6 @@ hash = "d5398c3eabe6d44bc7b98d0ad6ca930aa53736567ccd2773d4d9efe28a8099fd"
 metafile = true
 
 [[files]]
-file = "mods/mermod-fabric-2.41.jar"
-hash = "9fec9d758297c9f206b462c4d3fdf7edbee8d2176249ed04b9eeb2e66b5dfde0"
-
-[[files]]
 file = "mods/mindful-darkness.pw.toml"
 hash = "be472694cadd24973bab3b8ce282861d52bc0fb7f0f60ed316316ce82574d75e"
 metafile = true
