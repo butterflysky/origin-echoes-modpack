@@ -13,6 +13,10 @@ file = "mods/Modern-Industrialization-1.7.4.jar"
 hash = "ab5fd338896c7aa95c6427dc30e70fe01f9f57091d1fab0615fb94324bb43c49"
 
 [[files]]
+file = "mods/Sculkling-1.20.jar"
+hash = "087e0d4a9059849b9dddcea8898333c3284be584df50956d11e6efa810e0fdbf"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "705a59232972110ef672922786c6f38399d2a9c95cd5b3ded338379939931304"
 metafile = true
